@@ -1,4 +1,4 @@
-<img src="./assets/diretivas-react.png" alt="logo" width="200px" height="100px" align="center" >
+<img src="./assets/diretivas-react.png" alt="logo" width="200px" height="100px" style="display: block; margin: 0 auto;" >
 
 # README Mágico do Projeto React Heroico 🚀
 
@@ -17,12 +17,12 @@ Este projeto nasceu da necessidade de criar interfaces incríveis de forma rápi
    git clone git@github.com:reinaldoper/prompts-for-article-generate-by-ia-chat-gpt.git
 
 
-## Conheça os Superpoderes do React
+## Conheça os Superpoderes do React✨
 
 - Diretivas Mágicas
 As diretivas do React são como feitiços que guiam nosso código. Se precisamos mostrar ou esconder algo, basta dizer ao React com essas instruções especiais. Confira os exemplos nos nossos feitiços mágicos [aqui](https://vitejs.dev/guide/).
 
-## Ciclos de Vida Heroicos
+## Ciclos de Vida Heroicos🔄
 
 Cada componente tem sua própria história em quadrinhos, desde a criação até seu último suspiro. Saiba mais sobre os ciclos de vida emocionantes [aqui](https://vitejs.dev/guide/).
 
