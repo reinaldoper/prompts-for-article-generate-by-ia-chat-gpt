@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <img src="./assets/diretivas-react.png" alt="logo" width="200px" height="100px">
 </div>
 
