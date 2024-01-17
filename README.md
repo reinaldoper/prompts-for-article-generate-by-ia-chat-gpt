@@ -17,7 +17,8 @@ E aí, desenvolvedor destemido! Seja bem-vindo ao projeto React Heroico, onde a 
 
 ## O que é esse Projeto?
 
-Este projeto nasceu da necessidade de criar interfaces incríveis de forma rápida e eficiente. Usamos o React, aquele super-herói do Facebook, para tornar nossos sonhos de desenvolvimento realidade.
+Este projeto nasceu da necessidade de criar artigos para o bootcamp ChatGpt for Devs na Dio.me.
+Exemplificando o uso da IA como ferramenta de apoio no desenvolvimento de artigos.
 
 ## Como Começar?
 
