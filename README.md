@@ -5,6 +5,12 @@
 
 # README Mágico do Projeto React Heroico 🚀
 
+## 💻 Tecnologias utilizadas no projeto
+
+- ChatGPT - para título e conteúdo
+- Lexica.art - para gerar imagens
+- PowerPoint - Para formatação de banners e Layouts
+
 ## Bem-vindo ao Nosso Mundo!
 
 E aí, desenvolvedor destemido! Seja bem-vindo ao projeto React Heroico, onde a magia do React se encontra com a simplicidade de um SPA.
