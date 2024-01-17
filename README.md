@@ -1,4 +1,7 @@
-<img src="./assets/diretivas-react.png" alt="logo" width="200px" height="100px" style="display: block; margin: 0 auto;" >
+<div style="text-align: center;">
+  <img src="./assets/diretivas-react.png" alt="logo" width="200px" height="100px">
+</div>
+
 
 # README Mágico do Projeto React Heroico 🚀
 
